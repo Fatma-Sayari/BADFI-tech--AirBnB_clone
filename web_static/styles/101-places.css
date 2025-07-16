@@ -18,7 +18,6 @@ section.places h1 {
 section.places article {
     position: relative;
     width: 390px;
-  /*height: 620px;*/
     padding: 20px;
     padding-top: 0;
     padding-bottom: 15px;
@@ -55,7 +54,6 @@ section.places article div.information {
     justify-content: center;
 }
 section.places article div.information div {
-  /*display: inline-block;*/
 }
 section.places article div.information div.max_guest {
     position: relative;
