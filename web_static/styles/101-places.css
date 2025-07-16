@@ -27,6 +27,7 @@ section.places article {
     border-radius: 4px;
     display: flex;
     flex-direction: column;
+    flex: 0 1 300px;
 }
 section.places article h2 {
     font-size: 30px;
